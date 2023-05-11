@@ -1,0 +1,5 @@
+pymongo
+tensorflow
+flask
+Pillow
+numpy
